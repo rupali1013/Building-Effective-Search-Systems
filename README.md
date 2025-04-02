@@ -1,4 +1,4 @@
-# Building Effective Search Systems
+# Building Effective Search System
 
 ## 1. Background
 
