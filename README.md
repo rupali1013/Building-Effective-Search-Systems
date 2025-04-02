@@ -1,4 +1,4 @@
-# Building Effective Search Systems HelpMateAI
+# Building Effective Search Systems
 
 ## 1. Background
 
@@ -75,6 +75,6 @@ the layers.
 
 ## 8. Query Screenshots
 
-![](./queries-answer1.png)
-![](./queries-answer2.png)
-![](./queries-answer3.png)
+![](./query-answer1.png)
+![](./query-answer2.png)
+![](./query-answer3.png)
